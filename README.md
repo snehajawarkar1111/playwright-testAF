@@ -1,18 +1,32 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Playwright Test AF
 
-## Folder Structure
+## Overview
+This project contains automated tests using Playwright framework.
 
-The workspace contains two folders by default, where:
+## Installation
+```bash
+npm install
+```
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Running Tests
+```bash
+npm test
+```
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Project Structure
+```
+playwright-testAF/
+├── tests/
+├── fixtures/
+├── config/
+└── README.md
+```
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Sample Test Data
+- Test URL: `https://example.com`
+- Test User: `testuser@example.com`
+- Test Password: `TestPassword123`
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Documentation
+For more information, visit [Playwright Documentation](https://playwright.dev)
