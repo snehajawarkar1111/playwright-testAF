@@ -1,2 +1,2 @@
-# Test_Automation_Framework
+# Playwright_AF
 This is to Practice
