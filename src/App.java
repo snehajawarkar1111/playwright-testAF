@@ -3,5 +3,6 @@ public class App {
         System.out.println("Hello, World!");
         System.out.println("Welcome to the Java Application with feature1 branch.");
         System.out.println("new line added in feature1 branch.");
+        System.out.println("new button added");
     }
 }
